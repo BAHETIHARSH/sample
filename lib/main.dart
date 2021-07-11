@@ -90,7 +90,7 @@ class _NinjacardState extends State<Ninjacard> {
                 ),
                 SizedBox(width: 10,),
                 Text(
-                    "HBaheti@gmail.com",
+                    "HariBaheti@gmail.com",
                   style: TextStyle(
                     color: Colors.grey[400],
                     fontSize: 18,
